@@ -16,6 +16,10 @@ Fotogram is a minimalist photo gallery project that offers a curated visual arch
 - **Solution URL:** [GitHub Repository](https://github.com/stefanstraeter/fotogram)
 - **Live Site URL:** [Live Demo](https://stefanstraeter.github.io/fotogram/)
 
+### Screenshot
+
+![Fotogram Screenshot](img/fotogram-screenshot.png)
+
 ## My Process
 
 ### Built With
@@ -59,4 +63,5 @@ Fotogram is a minimalist photo gallery project that offers a curated visual arch
 ## Author
 
 - GitHub: [@stefanstraeter](https://github.com/stefanstraeter)
+
 # fotogram
